@@ -23,8 +23,8 @@
 
 ## Currently Reading
 
-- High Output Management
-- Psycho-Cybernetics
+- [High Output Management](https://www.goodreads.com/book/show/324750.High_Output_Management) ([Amazon](https://www.amazon.com/s?k=High+Output+Management+Andrew+S.+Grove))
+- [Psycho-Cybernetics](https://www.goodreads.com/book/show/833286) ([Amazon](https://www.amazon.com/s?k=Psycho-Cybernetics+Maxwell+Maltz))
 
 ## GitHub Snapshot
 
