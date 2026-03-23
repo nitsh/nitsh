@@ -33,4 +33,3 @@
 
 - GitHub: [@nitsh](https://github.com/nitsh)
 - LinkedIn: [linkedin.com/in/nitishal](https://www.linkedin.com/in/nitishal)
-- Repositories: [github.com/nitsh?tab=repositories](https://github.com/nitsh?tab=repositories)
