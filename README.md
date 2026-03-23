@@ -21,6 +21,11 @@
 - MySQL, Couchbase
 - CI/CD, experimentation platforms, Android
 
+## Currently Reading
+
+- High Output Management
+- Psycho-Cybernetics
+
 ## GitHub Snapshot
 
 <p>
