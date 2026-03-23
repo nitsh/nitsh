@@ -13,14 +13,13 @@
 
 ## Skills
 
-- AI product development
-- Full-stack web apps
-- Automation and internal tools
-- Python
-- TypeScript
-- Next.js
-- Remotion
-- Developer tooling
+- Scala, Java, Kotlin, Python, JavaScript
+- Distributed systems and large-scale backend platforms
+- System design, platform reliability, and performance optimization
+- Privacy-compliant infrastructure and security governance
+- Kafka, Docker, Consul, Envoy, Ansible
+- MySQL, Couchbase
+- CI/CD, experimentation platforms, Android
 
 ## GitHub Snapshot
 
