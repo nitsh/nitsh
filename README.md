@@ -4,25 +4,23 @@
   <a href="https://github.com/nitsh">
     <img src="https://img.shields.io/badge/GitHub-nitsh-181717?style=for-the-badge&logo=github" alt="GitHub badge" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Bangkok-0A66C2?style=for-the-badge" alt="Location badge" />
+  <img src="https://img.shields.io/badge/Location-London-0A66C2?style=for-the-badge" alt="Location badge" />
 </p>
 
 <p align="center">
-  I build products, experiments, and tooling across AI, web apps, and creator workflows.
+  Current hobby project: <a href="https://github.com/nitsh/karaoke-maker">karaoke-maker</a>
 </p>
 
-## About
+## Skills
 
-- Shipping usable things quickly matters more to me than polishing ideas in isolation.
-- I like working on product experiments, automation, and software that helps people create or move faster.
-- This profile repo is a small front door to what I am building and exploring.
-
-## Current Focus
-
-- AI-native product workflows
-- Fast iteration on web products
-- Automation and internal tooling
-- Media and creator-facing software
+- AI product development
+- Full-stack web apps
+- Automation and internal tools
+- Python
+- TypeScript
+- Next.js
+- Remotion
+- Developer tooling
 
 ## GitHub Snapshot
 
@@ -34,8 +32,5 @@
 ## Find Me
 
 - GitHub: [@nitsh](https://github.com/nitsh)
+- LinkedIn: [linkedin.com/in/nitishal](https://www.linkedin.com/in/nitishal)
 - Repositories: [github.com/nitsh?tab=repositories](https://github.com/nitsh?tab=repositories)
-
-## Notes
-
-If you are here from one of my repos, the best place to start is the pinned work and recent repositories on my GitHub profile.
